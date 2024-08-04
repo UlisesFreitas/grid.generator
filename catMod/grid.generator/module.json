@@ -1,0 +1,15 @@
+{
+    "main": {
+        "name": "Grid Generator",
+        "tagline": "Create a grid of this template.",
+        "version": "1.0.0",
+        "icon": "ctmod",
+        "authors": [{
+            "name": "Ulises Freitas",
+            "mail": "ulises.freitas@gmail.com"
+        }],
+        "categories": [
+            "media"
+        ]
+    }
+}
