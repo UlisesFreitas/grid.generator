@@ -60,7 +60,7 @@ for(var temp of arrayOfTemplates){
 You can access this values like `this.gridID` or `this.gridBatchID`.
 
 
-A mini tutorial is available here:  and thats it...
+A mini tutorial is available here: https://www.youtube.com/watch?v=nv5JZKsFgiY  and thats it...
 
 Enjoy making grids.
 
