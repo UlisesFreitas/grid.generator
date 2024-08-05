@@ -8,12 +8,12 @@ An easy way to create a grid based on a template
 ## How do you use `grid.generator`?
 
 * To use it you need to add catnip from sidebar `Create grid with template`.
-# ![Catnip sidebar](./data/ct.libs/grid.generator/docs/catnip-create-sidebar.jpg)
+# ![Catnip sidebar](catMod/grid.generator/docs/catnip-create-sidebar.jpg)
 # +
-# ![Catnip padding](./data/ct.libs/grid.generator/docs/catnip-create-grid-padding-sidebar-1.jpg)
+# ![Catnip padding](catMod/grid.generator/docs/catnip-create-grid-padding-sidebar-1.jpg)
 
-# ![Catnip block](./data/ct.libs/grid.generator/docs/catnip.jpg)
-# ![Catnip padding](./data/ct.libs/grid.generator/docs/catnip-padding-1.jpg)
+# ![Catnip block](catMod/grid.generator/docs/catnip.jpg)
+# ![Catnip padding](catMod/grid.generator/docs/catnip-padding-1.jpg)
 # +
 * If you prefer to pure code 
 ```
@@ -35,7 +35,7 @@ let gridArray = createGridWithPadding(template, startX, startY, rows, columns, p
 // Output the result
 console.log(gridArray);
 ```
-# ![Code ascript](./data/ct.libs/grid.generator/docs/create-grid-code.jpg)
+# ![Code ascript](catMod/grid.generator/docs/create-grid-code.jpg)
 # +
 
 ## Available methods
@@ -60,7 +60,7 @@ for(var temp of arrayOfTemplates){
 You can access this values like `this.gridID` or `this.gridBatchID`.
 
 
-A mini tutorial is available here:  and thats it...
+A mini tutorial is available here: https://www.youtube.com/watch?v=nv5JZKsFgiY  and thats it...
 
 Enjoy making grids.
 
